@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: cornsilk;
+}
+.gotomid {
+    text-align: center;
+}
+.gotomid img {
+    text-align: center;
+}
+.chuck img{
+    border-radius: 50%;
+    float: left;
+}
+.chuck{
+    text-align: center;
+    overflow:hidden
+}
+.jon img{
+    border-radius: 50%;
+    float: left;
+}
+.jon{text-align: center;
+    overflow:hidden
+    
+}
+button {
+    size: 23 px;
+    text-align: center;
+    background-color: grey;
+    border-radius: 5px ;
+    color: ivory;
+    border: 1px solid green;
+}
+button:hover{
+    background-color: gold;
+    color: black;
+}
+.contact-box{
+    background-color: grey;
+    height: 60%;
+}
+
+.contact-box button{
+    margin-top: 1.5%;
+    margin-left: 50%;
+    size: 30%;
+    height: 50px;
+    background-color: aquamarine;
+}

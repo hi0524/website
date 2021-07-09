@@ -1,0 +1,91 @@
+body {
+    
+    background-color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.deathmetal {
+    color: cornsilk;
+}
+
+header {
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+
+.box1 {background-color:rgb(61, 61, 255);
+    text-align: center;
+    overflow:hidden
+}
+    
+.box2 {background-color: rgba(231, 82, 82, 0.637);
+    text-align: center;
+    overflow:hidden
+
+}
+.box3 {background-color: rgb(209, 209, 73);
+    text-align: center;
+    overflow:hidden
+}
+
+.box4 {
+    background-color: rgb(58, 165, 58);
+    text-align: center;
+    overflow:hidden;
+}
+.box5 {background-color: rgb(156, 123, 13);
+    text-align: center;
+    overflow:hidden;
+
+}
+.box6 {background-color: rgb(20, 110, 42);
+    text-align: center;
+    overflow:hidden;
+}
+.box7 {background-color: rgb(248, 202, 51);
+    text-align: center;
+    overflow:hidden;
+}
+.box8 {background-color: rgb(204, 120, 120);
+    text-align: center;
+    overflow:hidden
+}
+
+.box1 img{
+    float:left
+}
+.box2 img{
+    float:left
+}
+.box3 img{
+    float:left
+}
+.box4 img{
+    float:left
+}
+.box5 img {
+    float:left
+}
+.box6 img{ 
+    float:left
+}
+.box7 img{
+    float:left
+}
+.box8 img{
+    float:left
+}
+.labels {padding: 8%
+
+}
+.header {
+    text-align: center;
+}
+
+
+.nice {
+    text-align: center;
+    size: 20%;
+}
+
+

@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 8%;
+}
+.box1{
+    text-align: center;
+    overflow:hidden;
+   
+}
+.box2{
+    text-align: center;
+    overflow:hidden;
+   
+}
+.box3{ text-align: center;
+    overflow:hidden;
+
+}
+img {
+    float: left;
+}
+
+
+.header {
+    text-align: center;
+}
